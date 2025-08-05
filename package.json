@@ -61,8 +61,8 @@
     "validate-conventional-commit": "^1.0.4"
   },
   "dependencies": {
+    "chalk": "^5.5.0",
     "clean-stack": "^5.2.0",
-    "jest-diff": "^29.7.0",
-    "markdown-or-chalk": "^0.2.0"
+    "jest-diff": "^29.7.0"
   }
 }
